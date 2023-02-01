@@ -4,7 +4,10 @@
 
 客户端与web最大的区别在于方便，一个链接即可以直接呈现展示内容
 
-[webgl展示](WebGL - HDRu3dc.com/3d/examples/hdr.html)
+[webgl展示](https://u3dc.com/3d/examples/hdr.html)
+
+
+
 
 ### 方案
 
